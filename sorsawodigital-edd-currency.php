@@ -1,8 +1,8 @@
 <?php
 /*
-Plugin Name: Sorsawo EDD Currency
+Plugin Name: EDD Currency
 Description: Adds custom currency to Easy Digital Downloads.
-Version: 1.0.8
+Version: 1.0.9
 Author: Sorsawo Team
 Author URI: https://sorsawo.com
 License: GNU General Public License v2 or later
